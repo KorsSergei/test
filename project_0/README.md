@@ -1,5 +1,5 @@
 ## My data science projects
-From the [Skillfactory]((https://github.com/KorsSergei/test/))
+From the [Skillfactory](https://github.com/KorsSergei/test/)
 
 ## Проекты
 
