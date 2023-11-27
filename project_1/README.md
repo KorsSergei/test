@@ -2,10 +2,10 @@
 
 ## Оглаление
 
-* [1. Описание проекта](https://github.com/KorsSergei/test/tree/main/project_1README.md#Описание-проекта)
-* [2. Какой кейс решаем](https://github.com/KorsSergei/test/tree/main/project_1README.md#Какой-кейс-решаем?)
-* [3. Результат](https://github.com/KorsSergei/test/tree/main/project_1README.md#Результат)
-* [4. Выводы](https://github.com/KorsSergei/test/tree/main/project_1README.md#Выводы)
+* [1. Описание проекта](https://github.com/KorsSergei/test/tree/main/project_1/README.md#Описание-проекта)
+* [2. Какой кейс решаем](https://github.com/KorsSergei/test/tree/main/project_1/README.md#Какой-кейс-решаем?)
+* [3. Результат](https://github.com/KorsSergei/test/tree/main/project_1/README.md#Результат)
+* [4. Выводы](https://github.com/KorsSergei/test/tree/main/project_1/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число менее чем за 20 попыток.
