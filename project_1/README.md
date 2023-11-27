@@ -1,5 +1,4 @@
-# My data science projects
-From the [Skillfactory](https://github.com/KorsSergei/test/)
+# Проект 1. Угадай число
 
 ## Оглаление
 
