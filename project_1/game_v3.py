@@ -1,6 +1,7 @@
 from game_v2 import score_game
 def game_core_v3(number: int = 1) -> int:
-    """
+    """Угадываем число за наименьшее количество попыток
+    
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
